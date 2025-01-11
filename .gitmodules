@@ -1,8 +1,8 @@
 [submodule "uhttpsharp"]
   path = Vendor/uHttpSharp
-  url = http://tohjo.ez.lv/citidev/uhttpsharp.git
+  url = http://github.com/CyberSys/uhttpsharp.git
 
 
 [submodule "Vendor/npsharp"]
 	path = Vendor/npsharp
-	url = http://tohjo.ez.lv/ntauthority/npsharp.git
+	url = http://github.com/CyberSys/npsharp.git
